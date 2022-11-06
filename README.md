@@ -6,7 +6,7 @@ I practiced here DOM manipulation, fonts, vanilla javascript and different anima
 
 A neat and dynamic HTML, CSS and JS code.
 
-This was taken from the Online Tutorials [videos](https://www.youtube.com/watch?v=Po4ZYm6e0q0)
+This was taken from the Online Tutorials [videos](https://www.youtube.com/watch?v=PCSHoqurhM4)
 
 I hope you like it, code it and [watch it](https://gustavolando.github.io/HowToMakeAnimatedWebsiteUsingAnimejs/)!
 
