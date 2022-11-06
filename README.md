@@ -10,14 +10,14 @@ This was taken from the Online Tutorials [videos](https://www.youtube.com/watch?
 
 I hope you like it, code it and [watch it](https://gustavolando.github.io/HowToMakeAnimatedWebsiteUsingAnimejs/)!
 
-![How to Make Animated Website using Anime.js](https://gustavolando.github.io/HowToMakeAnimatedWebsiteUsingAnimejs/How%20to%20Make%20Animated%20Website%20using%20Anime.js%201.png)
+![How to Make Animated Website using Anime.js](https://gustavolando.github.io/otHowToMakeAnimatedWebsiteUsingAnimejs/How%20to%20Make%20Animated%20Website%20using%20Anime.js%201.png)
 
-![How to Make Animated Website using Anime.js](https://gustavolando.github.io/HowToMakeAnimatedWebsiteUsingAnimejs/How%20to%20Make%20Animated%20Website%20using%20Anime.js%202.png)
+![How to Make Animated Website using Anime.js](https://gustavolando.github.io/otHowToMakeAnimatedWebsiteUsingAnimejs/How%20to%20Make%20Animated%20Website%20using%20Anime.js%202.png)
 
-![How to Make Animated Website using Anime.js](https://gustavolando.github.io/HowToMakeAnimatedWebsiteUsingAnimejs/How%20to%20Make%20Animated%20Website%20using%20Anime.js%203.png)
+![How to Make Animated Website using Anime.js](https://gustavolando.github.io/otHowToMakeAnimatedWebsiteUsingAnimejs/How%20to%20Make%20Animated%20Website%20using%20Anime.js%203.png)
 
-![How to Make Animated Website using Anime.js](https://gustavolando.github.io/HowToMakeAnimatedWebsiteUsingAnimejs/How%20to%20Make%20Animated%20Website%20using%20Anime.js%204.png)
+![How to Make Animated Website using Anime.js](https://gustavolando.github.io/otHowToMakeAnimatedWebsiteUsingAnimejs/How%20to%20Make%20Animated%20Website%20using%20Anime.js%204.png)
 
-![How to Make Animated Website using Anime.js](https://gustavolando.github.io/HowToMakeAnimatedWebsiteUsingAnimejs/How%20to%20Make%20Animated%20Website%20using%20Anime.js%205.png)
+![How to Make Animated Website using Anime.js](https://gustavolando.github.io/otHowToMakeAnimatedWebsiteUsingAnimejs/How%20to%20Make%20Animated%20Website%20using%20Anime.js%205.png)
 
 Here is the animation demo link:  https://gustavolando.github.io/HowToMakeAnimatedWebsiteUsingAnimejs/
